@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.hed{
+    width: 100%;
+    height: 500px;
+    background-image:url(7685299header.jpg);
+    background-position: center;
+    color: white;
+    
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 8px;
+    float: right;
+}
+a:hover{
+    color: rgb(47, 168, 97);
+}
+.pos{
+    padding-top: 20px;
+    margin-left: 70px;
+}
+.txt{
+    
+    width: 39%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 120px;
+}
+p:nth-child(1):hover{
+    color: rgb(77, 209, 132);
+}
+#cl{
+    width: 120px;
+    height: 38px;
+    border-radius: 18px;
+    background-color: rgb(100, 208, 192);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0px;
+}
+#p1{
+    width: 410px;
+    float: right;
+    margin-top: -24%;
+}
+main{
+    
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+main p{
+    color: rgb(109, 106, 106);
+    
+}
+.virus{
+    margin-top: 5%;
+}
+.vir1{
+    width: 380px;
+    display: inline-block;
+    margin: 30px;
+}
+.cor{
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.dw{
+    display: inline-block;
+    
+}
+.dw2{
+    text-align:left;
+    width: 40%;
+}
+#p2{
+    margin-left: 40%;
+    margin-top: -400px;
+}
+.blue{
+    background-color: #0E2342;
+}
+.wit{
+    color: white;
+}
+.ps{
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    margin: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+.marg{
+    margin-top: 10%;
+}
+.gr{
+    background-color: rgb(245, 241, 241);
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+#tab{
+    width: 1000px;
+}
+.co{
+    color: gray;
+}
+.pre{
+    margin-top: 15%;
+}
+.vir2{
+    margin: 20px;
+    width: 260px;
+    display: inline-block;
+}
+.inp{
+    height: 600px;
+    background-color: rgb(236, 229, 229);;
+}
+.tab2{
+    width: 95%;
+    margin: 40px;
+    border-spacing: 15px;
+    margin-top: 10%;
+    
+}
+.inp2{
+    width: 500px;
+    height: 25px;
+}
+.inpid{
+    height: 500px;
+}
+footer{
+    height: 300px;
+    background-color: #0E2342;
+    color: rgb(184, 181, 181);
+}
+.fot{
+    margin: 20px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.fot2{
+    display: inline-block;
+    
+    
+}
